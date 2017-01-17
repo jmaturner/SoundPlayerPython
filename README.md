@@ -1,5 +1,7 @@
-# SignalProcessing-GUI
-Python GUI to import and analyze signals
-Please check the WIKI for more details.
+# SoundPlayerPython
+Python GUI to import and play a wav file.
+Also plots the FFT
+
+More functions to come
 
 
